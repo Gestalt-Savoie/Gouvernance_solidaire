@@ -1,30 +1,29 @@
-# Gouvernance Cellulaire version 3.2
+# Gouvernance solidaire version 3.2
  
 Construisons une autre façon de travailler ensemble.
 
-Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés. [lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png)
+Cellular Governance® est une marque déposée ainsi que Gouvernance solidaire®. 
 
-La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs. 
-Elle est déposée ici : https://github.com/jeanlucchristin/constitution-cellular-governance/blob/master/Cellular%20Governance%20_%20Gouvernance%20Cellulaire.md
+La Gouvernance solidaire est définie dans cette constitution et nulle part ailleurs. 
 
-Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancecellulaire.org quand vous l’utilisez.** 
+Marque, logos et constitution sont en accès libre **Vous devez simplement inclure un lien vers https://gouvernancesolidaire.org quand vous l’utilisez.** 
 Plus d’infos à la fin de la constitution.* 
 
 
 ## 1)  Avant-propos
 
-## 1.1)  La démarche gouvernance cellulaire   
+## 1.1)  La démarche gouvernance solidaire   
 
 #### Intention
 
-Gouvernance cellulaire propose un cadre de référence progressif pour établir et maintenir un environnement de travail efficace qui prend soin de l’humain.
+Gouvernance solidaire propose un cadre de référence progressif pour établir et maintenir un environnement de travail efficace qui prend soin de l’humain.
 
 #### Au-delà des modèles : une pratique continue
 
 C'est une méthode pour co-construire un diagnostic puis décider d'actions concrètes et construire la constitution de sa structure. 
-Le calage gouvernance cellulaire avec les éléments cœurs et les 5 rôles préconstruits est un repère de constitution possible. Chaque équipe modifie ou ôte des éléments cœurs et rajoute des éléments optionnels. 
+Le calage gouvernance solidaire avec les éléments cœurs et les 5 rôles préconstruits est un repère de constitution possible. Chaque équipe modifie ou ôte des éléments cœurs et rajoute des éléments optionnels. 
 
-Votre structure s'inscrit dans la démarche de gouvernance cellulaire dès qu'elle essaie d'améliorer son fonctionnement en utilisant cette méthode.
+Votre structure s'inscrit dans la démarche de gouvernance solidaire dès qu'elle essaie d'améliorer son fonctionnement en utilisant cette méthode.
 
 Cette logique d’ajustement est permanente. La démarche ne s’arrête jamais. 
 
@@ -32,7 +31,7 @@ Votre structure continuera à ajuster son curseur managérial et ses processus e
 
 #### Autonomie
 
-Un objectif de la constitution est de permettre à chacun d’acquérir seul les connaissances de la gouvernance cellulaire par la lecture et l’expérimentation. Toutefois, nous avons constaté qu’il est précieux d’avoir des formations ou des accompagnements pour simplifier la montée en compétences et développer son autonomie dans la démarche.
+Un objectif de la constitution est de permettre à chacun d’acquérir seul les connaissances de la gouvernance solidaire par la lecture et l’expérimentation. Toutefois, nous avons constaté qu’il est précieux d’avoir des formations ou des accompagnements pour simplifier la montée en compétences et développer son autonomie dans la démarche.
 
 ## 1.2)  Philosophie
 
@@ -66,9 +65,9 @@ Nous participons à cet élan collectif en proposant une forme évolutive suffis
 
 Elle est brevetée en bien public inaliénable, licence « CCbySA ».
 
-## 1.3)  Raison d’être de la gouvernance cellulaire
+## 1.3)  Raison d’être de la gouvernance solidaire
 
-*Gouvernance cellulaire disparaitra le jour où les humains n’en auront plus besoin pour :*
+*Gouvernance solidaire disparaitra le jour où les humains n’en auront plus besoin pour :*
  - *laisser chacun engager ce qui lui parait utile pour la structure*,
  - *se demander ce dont ils ont besoin et traverser les conflits de manière bénéfique*,
  - *actualiser une raison d’être ajustée et suffisamment motivante*.
@@ -93,8 +92,8 @@ Le tout sous licence CCbySA : tous les termes et visuels sont libres de droit.
 ##### Intention ? 
 
 - Il est important pour nous que chaque personne et chaque structure poursuive son chemin, perçoive le monde, ressente ses tensions et invente la façon d’y répondre.
-  En gouvernance cellulaire, la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt.
-  En gouvernance cellulaire, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins.
+  En gouvernance solidaire, la structure reconnait cette caractéristique humaine et ne la dévoie pas pour son intérêt.
+  En gouvernance solidaire, une personne ne prend pas en otage sa structure pour répondre à ses propres besoins.
 - Nous considérons qu'en tant qu'humain, nous avons besoin que notre structure performe suffisamment pour bien vivre, et que notre structure a besoin que nous soyons suffisamment sereins pour performer.
 
 Nous portons une grande vigilance à détecter et éviter les prises de pouvoir arbitraires, volontaires et involontaires.  
@@ -110,7 +109,7 @@ Nous portons une grande vigilance à détecter et éviter les prises de pouvoir 
 
 ##### Comment ?
 
-- En approfondissant nos idées et nos connaissances dans une co-construction en mode gouvernance cellulaire.
+- En approfondissant nos idées et nos connaissances dans une co-construction en mode gouvernance solidaire.
 - Nous travaillons dans l’accompagnement professionnel. La rétribution de notre travail finance a la fois notre vie d’humain et notre 
 activité de développement : R&D, supervision, formation, travail sur soi et création de communs comme celui-ci.
 
@@ -162,7 +161,7 @@ Aucun impact, financement en mode don : "donner et recevoir" (pas d’investisse
 
 ##### Raison d’être 
 
-Gouvernance cellulaire cherche à prendre soin de notre estime de Soi car nous pensons que 
+Gouvernance solidaire cherche à prendre soin de notre estime de Soi car nous pensons que 
 
  - Quelqu’un avec une bonne estime de soi dispose d’une capacité d’ajustements inventifs face à la situation comme en relation.
  - Quelqu’un avec une estime de soi dégradée déclenche souvent des rigidités qui l’empêchent de s’adapter et l’aveuglent.
@@ -291,7 +290,7 @@ Utiliser le soutien de tous pour préciser le choix du collectif vis-à-vis d’
  
 ##### Méthode 
 
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il en a besoin*.
+*Le processus peut être différent. Par contre, une structure en Gouvernance solidaire doit avoir un processus écrit activable par tout membre quand il en a besoin*.
 
 Attention : ce temps nécessite une durée conséquente (nous observons facilement 2h)
 
@@ -417,7 +416,7 @@ Aider des membres ou collègues en tension relationnelle à restaurer les condit
 
 Périodicité : sur demande. Participants : les membres ou collègues en tension relationnelle, volontaires et, s’ils le souhaitent, un rôle facilitation. 
 
-*Le processus peut être différent. Par contre, une structure en Gouvernance Cellulaire doit avoir au moins un processus écrit activable par tout membre quand il en a besoin. Le processus pertinent est celui choisi par les participants.* L’élément « marcher-parler » propose une alternative puissante et simple.
+*Le processus peut être différent. Par contre, une structure en Gouvernance solidaire doit avoir au moins un processus écrit activable par tout membre quand il en a besoin. Le processus pertinent est celui choisi par les participants.* L’élément « marcher-parler » propose une alternative puissante et simple.
 
 ##### Inclusion  
 
@@ -555,7 +554,7 @@ Les engagements peuvent être pris en dehors de ce temps.
 
 Périodicité : sur demande ou régulière. Nous conseillons de fixer une durée maximum à l’avance. Nous constatons un temps court de l’ordre de 30 à 60 minutes après apprentissage du processus. Le maximum de points possible est traité dans le temps investi, les autres sont reportés.
 
-*Le processus peut être différent. Par contre, une structure en gouvernance Cellulaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule*.
+*Le processus peut être différent. Par contre, une structure en gouvernance solidaire doit avoir un processus écrit activable par tout membre quand il a besoin de réduire des tensions avec l’aide de sa cellule*.
  
 ##### Inclusion  
 
@@ -623,7 +622,7 @@ Ce processus est utile dans toute réunion nécessitant une prise de décision. 
 
 Il aide les participants à s’imposer de prendre une décision. Il inclue chacun et favorise la créativité.
 
-*Le processus peut être différent, mais une structure en gouvernance Cellulaire doit afficher un processus écrit de prise de décision collective*.
+*Le processus peut être différent, mais une structure en gouvernance solidaire doit afficher un processus écrit de prise de décision collective*.
 
 ##### Process : Gestion Par Consentement (GPC)
 
@@ -947,8 +946,8 @@ Nous avons besoin de relations où il est possible d’exprimer une demande clai
 
 La relation met l’accent sur l’expression directe, des outils comme le temps d’opération ou la décision par consentement sont aidants. 
 
-#### Proposition gouvernance cellulaire 
-En gouvernance cellulaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
+#### Proposition gouvernance solidaire 
+En gouvernance solidaire, toutes les tensions sont prises en comptes, qu’elles concernent les personnes ou les rôles. Par contre, les temps de régulation personnelles et les temps de régulation opérationnels sont planifiés à des moments distincts afin de ne pas tout mélanger.
 
 #### 4.4 Elément souveraineté et lien
 
@@ -967,7 +966,7 @@ Formellement, cela peut passer par une simple sollicitation d’avis ou une déc
 L’inconvénient est le temps que cela prend, qui peut amener le collectif à une surcharge insurmontable dans les temps impartis.
 
 #### Souveraineté et lien
-L’enjeu est de chercher à bénéficier des avantages de la souveraineté et du lien. Toute la démarche gouvernance cellulaire vise cet équilibre subtil.
+L’enjeu est de chercher à bénéficier des avantages de la souveraineté et du lien. Toute la démarche gouvernance solidaire vise cet équilibre subtil.
 Chacun est déclaré souverain dans ses rôles et invité à fonctionner dans une intention de lien.
 
 La culture de travail se construit chemin faisant, en donnant du pouvoir décisionnaire aux rôles, en régulant quand les choses ne se passent pas de façon satisfaisante pour l’un et en se mettant d’accord sur la façon de fonctionner ensemble.
@@ -979,7 +978,7 @@ On a parfois simplement besoin de parler d’un sujet, d’échanger, de réflé
 
 Il peut être question d’un sujet métier ou autre.
 
-Les réunions structurées de gouvernance cellulaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation.
+Les réunions structurées de gouvernance solidaire, si elles permettent d’éviter les réunions interminables où l’on ne décide pas vraiment, ont l’inconvénient d’écarter ces moments de conversation.
 
 Notre expérience nous montre que ces temps sont précieux et doivent pouvoir être déclenchés.
 
@@ -1138,7 +1137,7 @@ Eviter les situations de blocages délétères tout en prenant soin autant que p
 
 ##### Intention
 
-Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type cellulaire ».
+Donner des repères sur les étapes que traversent souvent les équipes quand des changements apparaissent avec une focale « évolution vers une gouvernance de type solidaire ».
 
 ##### Etapes de changement 
 
@@ -1215,11 +1214,11 @@ Nous cherchons à vivre en paix avec ces variations tout en étant dans l’inte
 
 La gestion d’un haut niveau de frustration aide à préserver la fluidité dans l’équipe et développe le bien-être et l’efficacité.
 
-#### 4.16 Elément charte gouvernance cellulaire 
+#### 4.16 Elément charte gouvernance solidaire 
 
 ##### Contexte 
 
-Dans le cadre de la refonte de notre gouvernance en mode gouvernance Cellulaire, des rôles et des cellules ont été créés.
+Dans le cadre de la refonte de notre gouvernance en mode gouvernance solidaire, des rôles et des cellules ont été créés.
 
 Chaque rôle, chaque cellule a une raison d’être à réaliser et des redevabilités ou attendus qui peuvent lui être demandés par les autres rôles. 
 
@@ -1235,7 +1234,7 @@ Nous nous engageons à respecter le principe de non-ingérence :
  - nous agirons dans le respect des règles définies par notre constitution
  - nous respecterons toutefois prioritairement la loi et les règles de notre structure qui ne sont pas sous notre responsabilité.
 
- L’organisation adopte la constitution Gouvernance Cellulaire           le __________________, à ______
+ L’organisation adopte la constitution Gouvernance solidaire           le __________________, à ______
 
 Signatures :
 
@@ -1257,7 +1256,7 @@ Signatures :
 
 ##### Technicité 
 
-Un accompagnement extérieur par un spécialiste de la gouvernance Cellulaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
+Un accompagnement extérieur par un spécialiste de la gouvernance solidaire peut être utile pour permettre une montée en compétence rapide des équipes impliquées. 
 Il n’est pas indispensable. 
 A chaque équipe d’expérimenter et de décider si une aide serait utile pour progresser plus facilement et plus rapidement.
 
@@ -1268,7 +1267,7 @@ Le changement culturel est très facile à comprendre intellectuellement, beauco
 Adopter une posture professionnelle (inclusive, disciplinée et ouverte) nécessite le temps de désapprendre ses habitudes pour en adopter d’autres. 
 Ce changement est sans doute le plus délicat à mener. 
 Il n’est pas impératif d’être accompagné pour le vivre, mais cela peut rendre les choses plus fluides et efficaces. 
-Le moment le plus délicat nous semble apparaître lorsque les premières équipes s’essaient à la pratique de la Gouvernance Cellulaire.
+Le moment le plus délicat nous semble apparaître lorsque les premières équipes s’essaient à la pratique de la Gouvernance solidaire.
 Les équipes suivantes bénéficieront d’interlocuteurs internes ayant éprouvé la méthode dans leur vécu qui pourront apporter leur éclairage.
 
 #### 4.18 Elément fusion d’équipes
@@ -1560,22 +1559,22 @@ Sécuriser le collectif en accompagnant les personnes qui gênent les équipes p
 
 ##### Système 
 
-L’organisation cellulaire est compatible avec une organisation pyramidale. 
+L’organisation solidaire est compatible avec une organisation pyramidale. 
 
-##### Ce qui est commun entre les systèmes pyramidal et cellulaire  
+##### Ce qui est commun entre les systèmes pyramidal et solidaire  
 
  - La raison d’être et les redevabilités de la cellule répondent aux besoins de l’équipe amont.
- - Le rôle lead cellulaire et le rôle manager ont pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
+ - Le rôle lead solidaire et le rôle manager ont pour redevabilités : veiller au cap ; choisir les priorités stratégiques ; résoudre les conflits de priorités ; répartir les ressources disponibles ; affecter des membres ; construire une organisation de départ. 
 
 ##### Les différences 
 
  - Le manager pyramidal a pour redevabilités complémentaires : percevoir l’environnement ; ajuster la raison d’être ; organiser l’équipe ; définir les priorités ; prendre en compte les demandes des membres ; évaluer, donner du feedback et recadrer ; finaliser les décisionsdécisions ; il est affecté au rôle prendre soin des personnes.
  - Des redevabilités peuvent être ajoutées au manager pyramidal.
- - En calage cellulaire, des redevabilités du manager pyramidal ont été déléguées aux membres de la cellule.
+ - En calage solidaire, des redevabilités du manager pyramidal ont été déléguées aux membres de la cellule.
 
 ##### Que fait le rôle pilotage de votre cellule ?
 
-Le rôle pilotage de l’équipe est décrit en cumulant des redevabilités du manager pyramidal et du rôle lead cellulaire.
+Le rôle pilotage de l’équipe est décrit en cumulant des redevabilités du manager pyramidal et du rôle lead solidaire.
 
 Les redevabilités restantes sont déléguées à l’équipe (si l’équipe les accepte).
 
@@ -1608,8 +1607,8 @@ Quand le manager assure la réflexion, la décision et l’évaluation, les coll
 Quand le groupe assure la réflexion, la décision et l’évaluation, les acteurs dépendent de leur collectif pour savoir quoi faire. 
 Le réglage est dit de « pouvoir au groupe ». 
 
-##### Calage cellulaire
-Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agir) et évaluer l’impact de son action, l’équipe est en calage cellulaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit de « pouvoir au rôle ».
+##### Calage solidaire
+Quand l'acteur assume la liberté de réfléchir, décider, agir (ou laisser agir) et évaluer l’impact de son action, l’équipe est en calage solidaire. La liberté est telle qu’il y a peu besoin de s’accorder. Le réglage est dit de « pouvoir au rôle ».
 
 #####  Réglage
 Le niveau d’autonomie idéal est celui choisi par l’équipe et son leader. Il peut varier dans le temps.
@@ -1650,7 +1649,7 @@ Ce temps peut être difficile à vivre. Chacun nomme en une fois comment il l’
 
 ##### Raison d’être 
 
-La gouvernance cellulaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible.
+La gouvernance solidaire est rendue beaucoup plus facile grâce aux outils numériques offrant une possibilité de traçabilité simple, en temps réel et accessible.
 
 ##### Exemple 
 
@@ -1658,7 +1657,7 @@ Open my organisation offre une solution libre à votre disposition que nous reco
 
 https://openmyorganization.org/ 
 
-Vous pouvez visionner l’organisation de l’équipe gouvernance cellulaire par ce lien :
+Vous pouvez visionner l’organisation de l’équipe gouvernance solidaire par ce lien :
 
 https://openmyorganization.org/org/GC
 
@@ -1705,7 +1704,7 @@ Nous éprouvons une grande gratitude pour tous les progrès humains qui nous ont
 
 Il ne nous est pas possible de citer l'intégralité des travaux qui ont rendu cela possible, nous citons ici ceux qui ont eu un impact direct dans ce travail
 
-Plus d’info sur l’histoire qui a amené à la gouvernance Cellulaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
+Plus d’info sur l’histoire qui a amené à la gouvernance solidaire [ici ](https://blogs.mediapart.fr/vertsaxovertsaxo/blog/310317/gouvernance-sociocratique-democratie-prise-de-parole-et-decision)
 
 ##### Bibliographie 
 
@@ -1741,7 +1740,7 @@ Notre ambition ici est un mariage posthume entre les théories humanistes de Par
  - Contrôle : action de tenir sa proposition, d’obtenir que quelque chose soit fait ou de se laisser guider (plus présente dans le monde pyramidal). 
  - Décision par concordance : processus avec un niveau de profondeur accru pour les décisions à fort enjeu.
  - Décision par consentement : aider le collectif à aboutir à une décision (stratégie ...) en gestion par consentement (GPC). 
- - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend gouvernance cellulaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
+ - Efficacité-humaniste : à la fois le système de valeurs qui sous-tend gouvernance solidaire, un outil d'autodiagnostic et des actions pertinentes pour réussir une coopération productive et saine.
  - Egrégore : une énergie de groupe influencée par les désirs de plusieurs personnes unis dans un but commun.
  - Elément : module activable et désactivable par une cellule selon les besoins qu’elle rencontre.
  - Espace contrat : régit le « qui fait quoi », tous les temps, postures, processus permettant de s’accorder sur ce qui doit être fait et par qui.
@@ -1770,9 +1769,9 @@ Notre ambition ici est un mariage posthume entre les théories humanistes de Par
 
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). [Ici la version française](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
 
-Cellular Governance® est une marque déposée ainsi que Gouvernance Cellulaire® et les logos associés ([lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png))
+Cellular Governance® est une marque déposée ainsi que Gouvernance solidaire® et les logos associés ([lien  logo](https://user-images.githubusercontent.com/38285180/110956828-cb248c80-8329-11eb-982b-9c91dfeba4be.png))
 
-La Gouvernance Cellulaire est définie dans cette constitution et nulle part ailleurs.
+La Gouvernance solidaire est définie dans cette constitution et nulle part ailleurs.
 
 **Vous devez simplement inclure un lien vers https://cellulargovernance.org quand vous l’utilisez**  
 
@@ -1799,19 +1798,19 @@ Le fait de conserver un auteur principal nous a paru nécessaire pour produire u
 
 #### 6.2  Contributeurs
 
-##### Equipe gouvernance cellulaire 
+##### Equipe gouvernance solidaire 
 Depuis septembre 2019, une équipe est active pour tester, améliorer, transmettre et faire connaitre la méthode. L’équipe est aujourd’hui organisée en 5 cellules.
 
 ##### Cellule laboratoire
-Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance cellulaire, dans son sens et ses processus.
+Apporter à une communauté de praticiens-chercheurs des ressources pour expérimenter en sécurité la gouvernance solidaire, dans son sens et ses processus.
 Olivier Daniel Thomas, Thierry Perrier, Nicolas Begel, Yann Crespel, Christophe Herault (rôle lead).
 
 ##### Cellule écriture
-Adapter en continu la constitution de la gouvernance cellulaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
+Adapter en continu la constitution de la gouvernance solidaire afin de servir au mieux l'évolution des organisations, de leurs membres et de leurs environnements.
 Jerome Michelet, Jeanluc Christin (auteur), Camille Lambert (relecture et orthographe), Candice Sottas (rôle lead).
 
 ##### Cellule rayonnement 
-Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance cellulaire.
+Inspirer et enchanter le monde de l'organisation et ses acteurs par la plateforme d'expression et d'animation de la communauté gouvernance solidaire.
 Marion Rigaux, Jeanluc Christin, David Drayer (rôle lead).
 
 ##### Cellule sève : la cellule qui prend soin de la vie du collectif
@@ -1819,5 +1818,5 @@ Avec l'énergie du vivant, soutenir le collectif dans son déploiement et prendr
 Juliette Le Roy, Virginie Angove, Laurent Favia, Nicolas Begel, Jean-Christophe Ciceron (rôle lead).
 
 ##### Cellule ancrage
-A travers la connaissance précise de la constitution de la gouvernance cellulaire et de ses évolutions, stimuler la vie organique du collectif. 
+A travers la connaissance précise de la constitution de la gouvernance solidaire et de ses évolutions, stimuler la vie organique du collectif. 
 Christophe Herault, David Drayer, Candice Sottas, Jean-Christophe Ciceron (cellule sans rôle lead).
